@@ -1,0 +1,6 @@
+{
+  "modcontours.config.line_thickness": "Толщина линии",
+  "modcontours.config.fill_opacity": "Прозрачность заливки",
+  "modcontours.config.line_style": "Стиль линии",
+  "modcontours.config.tooltip_tint": "Цвет в подсказке"
+}

@@ -1,0 +1,6 @@
+{
+  "modcontours.config.line_thickness": "Grosor de la línea",
+  "modcontours.config.fill_opacity": "Opacidad de relleno",
+  "modcontours.config.line_style": "Estilo de línea",
+  "modcontours.config.tooltip_tint": "Tinte de información sobre herramientas"
+}

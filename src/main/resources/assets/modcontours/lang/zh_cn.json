@@ -1,0 +1,6 @@
+{
+  "modcontours.config.line_thickness": "线条粗细",
+  "modcontours.config.fill_opacity": "填充不透明度",
+  "modcontours.config.line_style": "线条样式",
+  "modcontours.config.tooltip_tint": "工具提示着色"
+}
